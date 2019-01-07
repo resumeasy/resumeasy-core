@@ -1,1 +1,4 @@
-# resumeasy-core
+resumeasy-core
+==============
+
+Make create resume easy.

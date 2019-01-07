@@ -1,0 +1,22 @@
+{
+  "name": "@resumeasy/core",
+  "version": "1.0.0",
+  "description": "Make create resume easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resumeasy/resumeasy-core.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "kingcc",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/resumeasy/resumeasy-core/issues"
+  },
+  "homepage": "https://github.com/resumeasy/resumeasy-core#readme"
+}
